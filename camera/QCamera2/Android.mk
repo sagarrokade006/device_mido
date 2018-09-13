@@ -84,6 +84,8 @@ LOCAL_C_INCLUDES := \
         hardware/libhardware/include/hardware \
         hardware/qcom/media-caf-msm8996/libstagefrighthw \
         hardware/qcom/media-caf-msm8996/mm-core/inc \
+        frameworks/native/include/media/hardware \
+        frameworks/native/include/media/openmax \
         system/core/include/cutils \
         system/core/include/system \
         system/media/camera/include/system
